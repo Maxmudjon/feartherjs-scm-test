@@ -43,7 +43,6 @@
 </template>
 
 <script>
-const Axios = require("axios");
 import { mapActions, mapGetters } from "vuex";
 
 export default {
