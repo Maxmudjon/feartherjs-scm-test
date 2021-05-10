@@ -18,7 +18,7 @@
     "feathers-socketio": "^2.0.1",
     "feathers-vuex": "^1.7.0",
     "jquery": "^3.4.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "popper.js": "^1.15.0",
     "socket.io-client": "^2.2.0",
     "vue": "^2.5.11",
